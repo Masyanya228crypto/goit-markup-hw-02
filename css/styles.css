@@ -1,4 +1,4 @@
-body{
+body {
     font-family:
     Roboto, sans-serif;
     background-color: #ffffff;
@@ -26,8 +26,8 @@ body{
     text-transform: uppercase;
     font-style: bold;
     line-height: 1.17;
-    font-family:{ "Raleway", sans-serif; 
-}
+    font-family: "Raleway", sans-serif; 
+    }
 
 .nav-list {
     font-family: Roboto, sans-serif;
@@ -227,5 +227,5 @@ body{
     text-transform: uppercase;
     font-style: bold;
     line-height: 1.17;
-    font-family:{ "Raleway", sans-serif; 
+    font-family: "Raleway", sans-serif; 
 }
