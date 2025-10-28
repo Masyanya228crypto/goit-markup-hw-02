@@ -1,0 +1,231 @@
+body{
+    font-family:
+    Roboto, sans-serif;
+    background-color: #ffffff;
+    color: #434455;
+}
+
+.logo {
+    font-family: Raleway, sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    color: #4D5AE5;
+    line-height: 1.17;
+    background-color: #ffffff;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    font-style: bold;
+}
+
+.logo-span {
+    font-weight: 700;
+    font-size: 18px;
+    color: #2E2F42;
+    background-color: #ffffff;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    font-style: bold;
+    line-height: 1.17;
+    font-family:{ "Raleway", sans-serif; 
+}
+
+.nav-list {
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #2E2F42;
+    line-height: 24px;
+    background-color: #ffffff;
+    font-style: medium;
+    letter-spacing: 0.02em;
+}
+
+.nav-list:hover {
+    color: #404bbf;
+}
+
+.nav-list:focus {
+    color: #404bbf;
+}
+
+
+.address {
+    font-style: normal;
+}
+
+.address-list {
+    font-weight: 400;
+    font-size: 16px;
+    color: #434445;
+    line-height: 24px;
+    background-color: #ffffff;
+    font-style: normal;
+    letter-spacing: 0.02em;
+}
+.address-list:hover {
+    color: #404bbf;
+}
+
+.address-list:focus {
+    color: #404bbf;
+}
+
+.hero {
+    background-color: #2E2F42;
+}
+
+.hero-title {
+    font-weight: 700;
+    font-size: 56px;
+    color: #FFFFFF;
+    line-height: 1.07;
+    background-color: #2E2F42;
+    letter-spacing: 0.02em;
+    font-style: bold;
+    text-align: center;
+}
+
+.button {
+    font-weight: 500;
+    font-size: 16px;
+    color: #FFFFFF;
+    line-height: 24px;
+    background-color: #4D5AE5;
+    cursor: pointer;
+    letter-spacing: 0.04em;
+    font-style: medium;
+}
+
+.button:hover {
+    background-color: #404bbf;
+}
+
+.button:focus {
+    background-color: #404bbf;
+}
+
+.benefits {
+    background-color: #FFFFFF;
+}
+
+.benefits-title {
+    font-weight: 500;
+    font-size: 20px;
+    color: #2E2F42;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    font-style: medium;
+}
+
+.benefits-text {
+    font-size: 16px;
+    color: #434445;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+}
+
+.team {
+    background-color: #f4f4fd;
+}
+
+.team-title {
+    font-weight: 700;
+    font-size: 36px;
+    color: #2E2F42;
+    line-height: 1.11;
+    background-color: #f4f4fd;
+    letter-spacing: 0.02em;
+    font-style: bold;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.team-li {
+    background-color: #ffffff;
+}
+
+.team-img {
+    background-color: #ffffff;
+}
+
+.team-name {
+    font-weight: 500;
+    font-size: 20px;
+    color: #2E2F42;
+    line-height: 24px;
+    background-color: #ffffff;
+    letter-spacing: 0.02em;
+    font-style: medium;
+}
+
+.team-text {
+    font-size: 16px;
+    color: #434445;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+}
+
+.portfolio {
+    background-color: #FFFFFF;
+    font-size: 36px;
+    color: #2E2F42;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    font-style: bold;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 700;
+}
+
+.portfolio-title {
+    font-weight: 500;
+    font-size: 20px;
+    color: #2E2F42;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    font-style: medium;
+}
+
+.portfolio-text {
+    font-size: 16px;
+    color: #434445;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    background-color: #ffffff;
+}
+
+.footer {
+    background-color: #2E2F42;
+}
+
+.footer-text {
+    font-size: 16px;
+    color: #f4f4fd;
+    line-height: 1.5;
+    background-color: #2E2F42;
+    letter-spacing: 0.02em;
+}
+
+.footer-logo {
+    font-family: Raleway, sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    color: #4D5AE5;
+    line-height: 1.17;
+    background-color: #2E2F42;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    font-style: bold;
+}
+
+.footer-logo-span {
+    font-weight: 700;
+    font-size: 18px;
+    color: #f4f4fd;
+    background-color: #2E2F42;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    font-style: bold;
+    line-height: 1.17;
+    font-family:{ "Raleway", sans-serif; 
+}
