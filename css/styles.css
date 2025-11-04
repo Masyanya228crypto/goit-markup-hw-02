@@ -22,26 +22,30 @@ body {
     border-bottom: 1px solid #E7E9FC;
 }
 
-  .container {
+.container {
     max-width: 1158px;
     margin: 0 auto;
     padding-left: 15px;
     padding-right: 15px;
 }
 
+img {
+	display: block;
+	max-width: 100%;
+    height: auto;
+}
+
 .header-container {
-    display: flex;
+     display: flex;
     width: 1158px;
     margin: 0 auto;
     padding-top: 24px;
     padding-bottom: 24px;
-    align-items: center
+    align-items: center;
 }
 
-
-
 .logo {
-     font-size: 18px;
+    font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
     color: #4D5AE5;
@@ -64,14 +68,14 @@ body {
     background-color: #FFFFFF;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    }
+}
 
 .nav {
-   display: flex;
+    display: flex;
     align-items: center;
     margin-right: auto;
-
 }
+
 .nav-list {
     font-family: "Roboto", sans-serif;
     font-size: 16px;
@@ -84,6 +88,10 @@ body {
     gap: 40px;
 }
 
+.link:hover, .link:focus {
+    color: #404BBF;
+}
+
 .link {
     padding-top: 24px;
     padding-bottom: 24px;
@@ -91,29 +99,19 @@ body {
     color: #2E2F42;
 }
 
-.nav-list:hover {
-    color: #404bbf;
-}
-
-.nav-list:focus {
-    color: #404bbf;
-}
-
-.adress-ul {
+.address-list {
     display: flex;
     gap: 40px;
 }
 
-
-
-.address-list {
-    font-weight: 400;
+.address-link {
     font-size: 16px;
-    color: #434455;
+    font-weight: 400;
     line-height: 24px;
-    background-color: #ffffff;
-    font-style: normal;
+    color: #434455;
+    background-color: #FFFFFF;
     letter-spacing: 0.02em;
+    font-style: normal;
 }
 .address-list:hover {
     color: #404bbf;
@@ -215,15 +213,9 @@ img {
     height: auto;
 }
 
-.team-img {
-    gap: 24px;
-}
-
 .team {
     background-color: #F4F4FD;
-    padding: 120px 0;
-    display: inline;
-    margin-right: 100px;
+    padding: 120px 0
 }
 
 .team-list {
@@ -251,7 +243,6 @@ img {
 .team-li {
     background-color: #FFFFFF;
     border-radius: 0px 0px 4px 4px;
-    gap: 24px;
 }
 
 .team-div {
